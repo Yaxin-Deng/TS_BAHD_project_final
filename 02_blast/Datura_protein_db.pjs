@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "Datura_protein_db",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "00_raw/Datura_genome_protein.fa",
+  "number-of-letters": 14161165,
+  "number-of-sequences": 52106,
+  "last-updated": "2025-12-06T17:17:00",
+  "number-of-volumes": 1,
+  "bytes-total": 22394644,
+  "bytes-to-cache": 14630240,
+  "files": [
+    "Datura_protein_db.pdb",
+    "Datura_protein_db.phr",
+    "Datura_protein_db.pin",
+    "Datura_protein_db.pot",
+    "Datura_protein_db.psq",
+    "Datura_protein_db.ptf",
+    "Datura_protein_db.pto"
+  ]
+}
